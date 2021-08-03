@@ -1,4 +1,4 @@
-![Markdown Logo](https://www.exelatech.com/sites/default/files/default_images/exela-signature.png)
+![](https://www.exelatech.com/sites/default/files/default_images/exela-signature.png)
 
 <!--Heading -->
 # Digital MailRoom (DMR) Portal
@@ -7,9 +7,8 @@
 
 ---
 ---
-
 # DMR Portal Roles
-* Mail Admin
+* **Mail Admin**
   * Default User
   * Mail Received from Personal and shared mailbox
   * Re-route Mail from undeliverble mail folder 
@@ -20,31 +19,31 @@
   * Manage Label from the mail
   * Delete mail from inbox
   ---
-* client admin
+* **Client Admin**
   * Client Setup / Edit client
     * Information :-  
-    ` Client information is editable like as client code,client name , address and to enable and disable annotation and reduction and also provide retention period time in days `
+    >` Client information is editable like as client code,client name , address and to enable and disable annotation and reduction and also provide retention period time in days `
 
     * Email Recipients :-  
-    ` Email Recipients to add other mail Recipients ids used by send to action funcatnality and add 2 ways manual and upload bulk list.`
+    >` Email Recipients to add other mail Recipients ids used by send to action funcatnality and add 2 ways manual and upload bulk list.`
     * Email Recipients Group :-  
-     `Create Email Recipient Group and add multiple user from this group `
+     >`Create Email Recipient Group and add multiple user from this group `
     * Self Registration :-  
-     `Add self registration Recipients and assign the role`
+     >`Add self registration Recipients and assign the role`
     * Assign Theme :-  
-     ` Create custom Theme`
+     >` Create custom Theme`
     * Assign Action :-  
-     ` Select Product and check and uncheck the perticular action on the user `
+     >` Select Product and check and uncheck the perticular action on the user `
     * Shared MailBox :-  
-     `Create shared mail box and activate/deactivate the notification`
+     >`Create shared mail box and activate/deactivate the notification`
     * Password Rule :-  
-     `custom password rule are created `
+     >`custom password rule are created `
     * Assign Templete :-  
-     ` selct the templets is assigned from the user  `
+     >` selct the templets is assigned from the user  `
     * SMTP Configration :-  
-     ` use Default / custom configration is provided`
+     >` use Default / custom configration is provided`
     * Exports Option :-  
-     ` To export the data automatically from perticular time inteval is set`
+     >` To export the data automatically from perticular time inteval is set`
   * Role Setup
   * Project Setup 
   * Site Design Setup
@@ -55,3 +54,5 @@
   * Reach out
   * Pulse setup 
   * Reports 
+   ---
+* **Super Admin**
