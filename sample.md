@@ -1,4 +1,4 @@
-![](https://www.exelatech.com/sites/default/files/default_images/exela-signature.png)
+![](images/exela-signaturelogo.png)
 
 <!--Heading -->
 # Digital MailRoom (DMR) Portal
@@ -56,3 +56,5 @@
   * Reports 
    ---
 * **Super Admin**
+
+![](images/footer.PNG)
